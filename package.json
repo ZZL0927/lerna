@@ -1,6 +1,5 @@
 {
-  "name": "lerna-monorepo",
-  "private": true,
+  "name": "@zilongzhang/lerna-monorepo",
   "description": "lerna dog-fooding lerna",
   "workspaces": [
     "commands/*",
